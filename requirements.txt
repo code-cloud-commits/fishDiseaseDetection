@@ -4,4 +4,3 @@ numpy
 Pillow
 opencv-python
 ultralytics
-sklearn
